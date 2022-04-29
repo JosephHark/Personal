@@ -5,7 +5,7 @@ const doc = {
         title: 'My API',
         description: 'Temple API'
     },
-    host: 'glacial-savannah-83570.herokuapp.com/',
+    host: 'glacial-savannah-83570.herokuapp.com',
     schemes: ['https']
 };
 
